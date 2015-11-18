@@ -10,7 +10,10 @@
     "type": "git",
     "url": "https://github.com/mindera/node-slowdown"
   },
-  "author": "Bruno Palos <bruno.palos@mindera.com> (http://www.mindera.com)",
+  "contributors": [
+    "Bruno Palos <bruno.palos@mindera.com> (http://www.mindera.com)",
+    "José Fonseca <jose.fonseca@mindera.com> (http://www.mindera.com)"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mindera/node-slowdown/issues"
